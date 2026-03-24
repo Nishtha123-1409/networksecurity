@@ -18,5 +18,5 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-# ✅ MOST IMPORTANT LINE
+# MOST IMPORTANT LINE
 logger = logging.getLogger("networksecurity")
